@@ -1,3 +1,4 @@
+--Prueba 2 Hecha por Samuel Henao Castrillon
 import Data.Time.Clock
 import Data.List
 import System.IO
